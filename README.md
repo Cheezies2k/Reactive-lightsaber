@@ -6,3 +6,5 @@ The end product will be a lightsaber that reacts to swinging and hitting by play
 The lightsaber is currently being controlled by a pi pico, but due to unstability with multithreading and speed limitations, it is being upgraded to a pi zero so that audio and leds are able to function at the same time without interferance
 
 All of the parts have been 3D printed and are press fit onto a chrome coated tube that runs all through the middle og the saber, giving it more strength and stability. Around the outside of the leds there is a polycarbonte tube protecting them from hits. Right now, the tube is only made blurry with spray on glass frosting but it chips off when it is hit so a better solution might be needed. Although its fine for now.
+
+The rest of the issues and possible solutions are found in 
