@@ -1,10 +1,3 @@
-Multithreading doesn't work on pi pico. This is going to be fixed by using a pi zero instead
-
-Speed of ignition sequence and "show led" function is slow. This will also be solved by upgrading to a pi zero
-
-Distance sensors can't sense far enough, possibly due to 3.3v being supplied instead of 5v. Not really a possible solution 
-yet but the distance sensors can sense up to half a meter right now so it is still ok without being fixed
-
 There is a buzzing sound coming from the speaker due to noise through the power. This can be fixed though the use of a 
 secondary power supply only for the speaker but I wont implememnt this as the noise can't be heard while the speaker is playing 
 sound and the lightsaber will be playing sound constantly
