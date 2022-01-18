@@ -1,8 +1,11 @@
 There is a buzzing sound coming from the speaker due to noise through the power. This can be fixed though the use of a 
-secondary power supply only for the speaker but I wont implememnt this as the noise can't be heard while the speaker is playing 
+secondary power supply only for the speaker but I wont implememnt this into the current version of the saber as the noise can't be heard too much while the speaker is playing 
 sound and the lightsaber will be playing sound constantly
 
 Accelerometer pins might not be grounded but this can easily be fixed through the use of resistors
 
 The spray on frosting isn't the best as it isn't that foggy and chips off when hit. A possible solution would be to use diffusing 
 paper inside the tube but I wont implement it as I don't have enough space and the frosting does a good-ish job for now
+
+The Rpi Zero does not incluse ADC pins so a arduino beetle is being used as a converter. In the next iteration of the saber a gyroscope and accelerometer with 
+i2c communication will be used instead
