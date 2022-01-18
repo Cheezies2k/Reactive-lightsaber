@@ -13,7 +13,7 @@ After the completion of this saber, I am planning on making a second better vers
   A secondary power source for better audio quality
   A teensy 4.1 instead of Rpi Zero
   4 Lipo batteries with a buck converter that regulates the power from 7.4V @ 5200 mA to 5V @ 6000 mA
-  Extended battery life time
+  Extended battery life
   Teensy 4.1 turns itself and all other circutry off when shut down intead of going into sleep mode
   Foam and diffusion sheet on inside for better diffusion
   More space between leds and tube for better diffusion
