@@ -22,3 +22,4 @@ After the completion of this saber, I am planning on making a second better vers
 	Low pass filter for reducing audio noise
 	EEPROM for storing last used colour while powered off
 	Higher led brightness
+	Smaller handle and blade diameter
