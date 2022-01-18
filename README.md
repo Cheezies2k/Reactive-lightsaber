@@ -8,6 +8,7 @@ All of the parts have been 3D printed and are press fit onto a chrome coated tub
 The rest of the issues and possible solutions are found in the "Current issues and possible solutions" file.
 
 After the completion of this saber, I am planning on making a second better version that this time includes:
+
 	Only 4 distance sensors
 	
 	4 more dense led strips
