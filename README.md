@@ -23,3 +23,4 @@ After the completion of this saber, I am planning on making a second better vers
 	EEPROM for storing last used colour while powered off
 	Higher led brightness
 	Smaller handle and blade diameter
+	Less weight to the blade and handle
